@@ -4,10 +4,11 @@ import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 import com.mplcoding.spoonacular.data.db.entities.FavoriteEntity
+import com.mplcoding.spoonacular.data.db.entities.FoodJokeEntity
 import com.mplcoding.spoonacular.utils.TypeConverter
 
 @Database(
-    entities = [RecipesEntity::class, FavoriteEntity::class],
+    entities = [RecipesEntity::class, FavoriteEntity::class, FoodJokeEntity::class],
     version = 1,
     exportSchema = false
 )

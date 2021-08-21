@@ -1,6 +1,7 @@
 package com.mplcoding.spoonacular.data
 
 import com.mplcoding.spoonacular.data.network.FoodRecipesApi
+import com.mplcoding.spoonacular.models.FoodJoke
 import com.mplcoding.spoonacular.models.FoodRecipe
 import retrofit2.Response
 import javax.inject.Inject
@@ -15,4 +16,9 @@ class RemoteDataSource @Inject constructor(
     suspend fun searchRecipes(searchQuery: Map<String, String>): Response<FoodRecipe>{
         return api.searchRecipes(searchQuery)
     }
+
+    suspend fun getFoodJoke(apiKey: String): Response<FoodJoke> {
+        return api.getFoodJoke(apiKey)
+    }
+
 }

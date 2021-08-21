@@ -13,11 +13,12 @@
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/drawable-v24/ic_star.xml" value="0.22552083333333334" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/drawable/gradient_overlay.xml" value="0.22552083333333334" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/drawable/ic_error_placeholder.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/drawable/ic_star.xml" value="0.2175925925925926" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/activity_details.xml" value="0.16485507246376813" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/favorite_recipes_row_layout.xml" value="0.1852355072463768" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.1" />
-        <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/fragment_food_joke.xml" value="0.1" />
+        <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/fragment_food_joke.xml" value="0.40292275574112735" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/fragment_ingredient.xml" value="0.1" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/fragment_instruction.xml" value="0.1" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/layout/fragment_overview.xml" value="0.22" />
@@ -30,7 +31,9 @@
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/menu/details_menu.xml" value="0.209375" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/menu/favorite_recipes_menu.xml" value="0.209375" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/menu/favorites_contextual_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/menu/food_joke_menu.xml" value="0.209375" />
         <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/menu/recipes_menu.xml" value="0.1" />
+        <entry key="..\:/Users/maiph/AndroidStudioProjects/Spoonacular/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2175925925925926" />
       </map>
     </option>
   </component>
